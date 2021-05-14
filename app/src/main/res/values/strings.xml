@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VacSlot</string>
+
+    <string-array name="ages">
+        <item>Select minimum age limit</item>
+        <item>18</item>
+        <item>45</item>
+        <item>Both 18 and 45</item>
+
+    </string-array>
+
+    <string name="alert">
+
+        This App is for searching Covid-19 vaccine slot availability and for automatic user notification, if slots are available in a particular district in India. The data in this app is provided by CoWIN API published by API Setu, Government of India. This app is for information purpose only. The data in this app is not realtime, there is a slight delay and this delay is made by CoWIN Portal. For booking your slots, visit CoWIN portal or download CoWIN/ Arogya Setu Mobile App.
+
+    </string>
+
+</resources>
